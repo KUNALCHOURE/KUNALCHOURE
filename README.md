@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm KUNAL CHOURE</h1>
 <h3 align="center">I am a B.Tech student majoring in Data Science at Shri. Ramdeobaba College of Engineering & Management. I'm on a dynamic journey to explore the diverse realms of technology, with a focus on programming, web development, and data-related technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchoure" /> </p>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB DEVELOPMENT** and **DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

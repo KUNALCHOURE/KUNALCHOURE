@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm KUNAL CHOURE</h1>
 <h3 align="center">
-  I am a B.Tech student majoring in Data Science at Shri. Ramdeobaba College of Engineering & Management. I'm on a dynamic journey to explore the diverse realms of technology, with a focus on programming, web development, and data-related technologies.
+  I am currently studying Data Science at Shri Ramdeobaba College of Engineering & Management. My journey in technology is driven by a strong interest in programming, web development, and data-related technologies.
 </h3>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT** and **DSA**
+- 🌱 Currently honing my skills in **Web Development** and **Data Structures & Algorithms (DSA)**
+- 🎓 Pursuing a degree in **Data Science** with a focus on innovative projects and real-world applications
+- 💡 Enthusiastic about learning new technologies and applying them to solve complex problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

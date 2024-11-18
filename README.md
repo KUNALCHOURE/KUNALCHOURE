@@ -7,6 +7,12 @@
 - 🎓 Pursuing a degree in **Data Science** with a focus on innovative projects and real-world applications
 - 💡 Enthusiastic about learning new technologies and applying them to solve complex problems
 
+<h3 align="left">🌟 Hacktoberfest Achievements:</h3>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/77512223/194112963-1dca0d89-3353-47e3-b4bb-16f6c5b802dd.png" alt="Hacktoberfest 2024 Badge" height="60" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge" alt="Hacktoberfest 2024" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kunal choure" target="blank">

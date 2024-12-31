@@ -7,11 +7,9 @@
 - 🎓 Pursuing a degree in **Data Science** with a focus on innovative projects and real-world applications
 - 💡 Enthusiastic about learning new technologies and applying them to solve complex problems
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kunal choure" target="blank">
+  <a href="https://linkedin.com/in/kunal-choure" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal choure" height="30" width="40" />
   </a>
 </p>
@@ -32,6 +30,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchoure&show_icons=true&locale=en&layout=compact" alt="kunalchoure" /></p>

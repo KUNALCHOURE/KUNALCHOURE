@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchoure&" alt="kunalchoure" /></p>
 
-[![An image of @kunalchoure's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunalchoure)](https://holopin.io/@kunalchoure)
+

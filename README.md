@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm KUNAL CHOURE</h1>
 <h3 align="center">
- I am currently studying Data Science at Shri Ramdeobaba College of Engineering & Management. Alongside my academic pursuits, I am a skilled MERN stack developer with a passion for creating dynamic and user-friendly web applications. My journey in technology is driven by a deep interest in programming, full-stack web development, and data-related technologies.
+ I am currently studying at Shri Ramdeobaba College of Engineering & Management. Alongside my academic pursuits, I am a skilled MERN stack developer with a passion for creating dynamic and user-friendly web applications. My journey in technology is driven by a deep interest in programming, full-stack web development, and data-related technologies.
 </h3>
 
 - 🌱 Currently honing my skills in **MERN Stack Development** and **Data Structures & Algorithms (DSA)**

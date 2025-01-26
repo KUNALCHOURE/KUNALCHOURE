@@ -4,7 +4,6 @@
 </h3>
 
 - 🌱 Currently honing my skills in **MERN Stack Development** and **Data Structures & Algorithms (DSA)**
-- 🎓 Pursuing a degree in **Data Science** with a focus on innovative projects and real-world applications
 - 💡 Always eager to learn new technologies and leverage them to solve complex problems creatively
 
 <h3 align="left">Connect with me:</h3>

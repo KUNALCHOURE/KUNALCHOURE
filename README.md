@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+
+ <img src="https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge" alt="ShadCN" />
+
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
@@ -39,3 +42,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchoure&show_icons=true&locale=en&layout=compact" alt="kunalchoure" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchoure&" alt="kunalchoure" /></p>
+
+

@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
 </p>
 
 

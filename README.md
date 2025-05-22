@@ -1,7 +1,11 @@
 <div align="center">Hi there, I'm Kunal Choure 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=600&height=100&lines=MERN+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Tech+Innovator;Open+Source+Contributor" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🚀 About Me

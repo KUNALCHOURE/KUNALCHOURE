@@ -43,6 +43,8 @@ I am a passionate MERN Stack Developer currently pursuing my studies at Shri Ram
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 ### 🖥️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)

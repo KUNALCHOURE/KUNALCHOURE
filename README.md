@@ -1,4 +1,5 @@
-<div align="center">Hi there, I'm Kunal Choure 👋</div>
+GitHub readme 
+# 💫 Hello, I'm Kunal Choure
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Tech+Innovator;Open+Source+Contributor" alt="Typing Animation" />
@@ -8,58 +9,61 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 About Me
+## 🎯 About Me
 
-I am a passionate MERN Stack Developer currently pursuing my studies at Shri Ramdeobaba College of Engineering & Management. My journey in technology is driven by a deep enthusiasm for building dynamic, scalable, and user-friendly web applications.
+> *Passionate MERN Stack Developer crafting digital experiences that matter*
 
-### 🌱 Current Focus
-- Sharpening expertise in **MERN Stack Development**
-- Mastering **Data Structures & Algorithms (DSA)**
-- Building innovative web solutions
-- Contributing to open-source projects
+🎓 **Currently studying at** Shri Ramdeobaba College of Engineering & Management  
+🚀 **Building** scalable web applications with modern technologies  
+💡 **Passionate about** creating innovative solutions to real-world problems  
+🌱 **Always learning** and staying updated with the latest tech trends  
 
-### 💡 What Drives Me
-- Exploring new technologies and frameworks
-- Solving real-world problems creatively
-- Building meaningful projects
-- Contributing to the tech community
+### 🔥 What I'm Up To
+- 🎯 Mastering advanced **MERN Stack** patterns and best practices
+- 📊 Strengthening **Data Structures & Algorithms** fundamentals
+- 🚀 Building full-stack applications with modern UI/UX principles
+- 🤝 Contributing to **open-source** projects and tech communities
+- 📱 Exploring **mobile development** and **cloud technologies**
 
-## 🧠 Skills & Technologies
+---
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠️ Tech Arsenal
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+<div align="center">
 
+### 💻 Languages & Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🖥️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00C7B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -71,18 +75,67 @@ I am a passionate MERN Stack Developer currently pursuing my studies at Shri Ram
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchoure&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalchoure&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
+---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Achievements
 
-<div align="left">
-  <a href="https://linkedin.com/in/kunal-choure" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal choure" height="30" width="40" />
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalchoure&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalchoure&repo=project1&theme=tokyonight)](https://github.com/kunalchoure/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalchoure&repo=project2&theme=tokyonight)](https://github.com/kunalchoure/project2)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-choure)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunalchoure)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🎮 I enjoy solving coding challenges in my free time
+- 📚 Always reading about emerging technologies
+- 🎵 Music helps me focus while coding
+- ☕ Coffee is my coding fuel
+- 🌟 I believe in learning by building
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/kunalchoure?label=Followers&style=for-the-badge&color=blue)
+  
+  **⭐ If you like my work, consider giving a star to my repositories!**
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>

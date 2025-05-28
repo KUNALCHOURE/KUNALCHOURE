@@ -87,18 +87,7 @@ GitHub readme
   <img src="https://github-profile-trophy.vercel.app/?username=kunalchoure&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalchoure&repo=project1&theme=tokyonight)](https://github.com/kunalchoure/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalchoure&repo=project2&theme=tokyonight)](https://github.com/kunalchoure/project2)
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -111,28 +100,17 @@ GitHub readme
 
 </div>
 
----
 
-## 💡 Fun Facts
-
-- 🎮 I enjoy solving coding challenges in my free time
-- 📚 Always reading about emerging technologies
-- 🎵 Music helps me focus while coding
-- ☕ Coffee is my coding fuel
-- 🌟 I believe in learning by building
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+ 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/kunalchoure?label=Followers&style=for-the-badge&color=blue)
   
-  **⭐ If you like my work, consider giving a star to my repositories!**
-</div>
+  </div>
 
 ---
 

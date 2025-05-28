@@ -100,20 +100,10 @@ GitHub readme
 
 </div>
 
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
- 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/kunalchoure?label=Followers&style=for-the-badge&color=blue)
-  
-  </div>
+ 
+
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>

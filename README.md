@@ -1,4 +1,4 @@
-GitHub readme 
+
 # 💫 Hello, I'm Kunal Choure
 
 <div align="center">

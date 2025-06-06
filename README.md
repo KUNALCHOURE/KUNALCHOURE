@@ -98,11 +98,12 @@ GitHub readme
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=for-the-badge)
 </div>
 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=kunalchoure&label=Profile%20views&color=0e75b6&style=for-the-badge)
- 
+
+
 
 
 ---

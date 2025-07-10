@@ -1,6 +1,6 @@
 # 💫 Hello, I'm Kunal Choure
 
-> *Passionate Full Stack Developer crafting innovative digital solutions*
+> *Passionate Full Stack Developer *
 
 🎓 **Currently studying at** Shri Ramdeobaba College of Engineering & Management  
 🚀 **Building** scalable web applications with modern technologies  

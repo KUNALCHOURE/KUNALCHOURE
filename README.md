@@ -32,11 +32,7 @@ My journey in tech is fueled by curiosity and a desire to create meaningful impa
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,react,nextjs,html,css,tailwind,materialui,bootstrap,nodejs,express,mongodb,postgresql,vscode,git,github,postman,vercel" alt="Tech Skills" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Render-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design"/>
-</p>
+
 </div>
 
 ---
